@@ -1,0 +1,79 @@
+<!-- Home -->
+
+:::::: columns
+::: {.column width="35%"}
+![](Images/Logo.png){width="250"}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+\
+\
+
+#### **The SPEAK Lab is a research laboratory at the University of Houston led by [Austin Thompson](team.qmd#austin-thompson).**
+
+Our research is committed to advancing the diagnostic and treatment techniques for patients with motor speech disorders, such as dysarthria.
+:::
+::::::
+
+\
+\
+
+## Our Research
+
+:::::::: columns
+::: {.column width="30%"}
+### 👅
+
+### Instrumental Analysis of Speech
+
+We're studying what makes speech hard to understand for people with speech difficulties like dysarthria. Using instruments like ultrasound and electromagnetic articulography, we're checking how the tongue, lips, and jaw move when individuals talk.
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+### 💬
+
+### Language and Dialect’s Impact on Speech
+
+We're investigating how different languages and dialects affect speech in people with and without speech problems like dysarthria. Researchers often believe that dysarthria is language-universal, but our research shows it's not that simple – where you're from and how you speak can interact with dysarthria.
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+### 📐
+
+### Meta-Science and Open Science
+
+We explore the reliability of our measurements and whether they truly capture what we intend to measure. We're also interested in the concept of open science and how it can enhance research practices. With these aims, we hope to strengthen the integrity and impact of our research findings.\
+:::
+::::::::
+
+## **Contact Us**
+
+**Email us** → [thespeaklab\@gmail.com](mailto:thespeaklab@gmail.com)
+
+Or visit our [contact page](https://speak-lab.com/contact), or find us on [social media](https://speak-lab.com/contact/social-media)!\
+\
+
+## **Visit Us**
+
+| Melcher Life Sciences
+| 3871 Holman St. Room M245G
+| Houston, TX 77204-6018
+
+\
+
+```{=html}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d433.10049643154343!2d-95.3489373888708!3d29.725437070333367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f50.1!3m3!1m2!1s0x8640bf000500dc15%3A0x181db38daa15d0cb!2sMelcher%20Life%20Sciences%20Building!5e0!3m2!1sen!2sus!4v1743785330194!5m2!1sen!2sus" width=100% height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+```

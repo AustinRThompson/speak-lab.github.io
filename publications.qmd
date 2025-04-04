@@ -1,0 +1,17 @@
+---
+title: "Publications"
+listing:
+  contents: Publications
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: false
+---
+
+Here is what we've been up to lately.
+
+::: {collections="publications"}
+:::

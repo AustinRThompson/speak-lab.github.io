@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: " 
+  ![](/Images/Logo.png){width=45}
+  \\ \\
+  SPEAK Lab"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Publications"
+        href: publications.qmd
+  page-footer: 
+    left: "Copyright 2021, Norah Jones" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: instagram 
+        href: https://www.instagram.com/speaklaboratory/
+
+format:
+  html:
+    theme: cosmo
+    css: /styles.css
+    toc: true
+
+editor: visual
+

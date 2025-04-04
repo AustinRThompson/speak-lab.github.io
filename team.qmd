@@ -1,0 +1,60 @@
+---
+title: "Team"
+---
+
+Get to know the people who make our work possible.\
+\
+
+:::::: columns
+::: {.column width="35%"}
+\
+![](Images/Headshot_Thompson.jpeg){width="250"}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+### Austin Thompson
+
+| Principal Investigator
+| Ph.D., CCC-SLP (he/they)
+| Assistant Professor
+| Department of Communication Sciences and Disorders
+| University of Houston
+| athomp27\@central.uh.edu
+
+\
+I'm Austin, a speech scientist with a research interest in motor control of speech production in speakers with and without dysarthria. I'm an Assistant Professor in the Department of Communication Sciences and Disorders at the University of Houston.
+
+Outside of work, I love scary movies, travel, and my four-legged children.
+
+[CV](Documents/Thompson_CV.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Here's a tooltip"}
+:::
+::::::
+
+## Collaborators
+
+Research isn't produced in a silo. Here are some of the fantastic scientists we get to collaborate with.
+
+:::::: columns
+::: {.column width="35%"}
+\
+![](Images/Headshot_Kim.png){width="250"}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="60%"}
+### Yunjung Kim
+
+| Ph.D.
+| Professor
+| School of Communication Science and Disorders
+| Florida State University
+| <https://motorspeech.cci.fsu.edu/>
+:::
+::::::
