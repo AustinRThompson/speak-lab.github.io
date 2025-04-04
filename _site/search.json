@@ -88,7 +88,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Here is what we’ve been up to lately.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe Effects of Electromagnetic Articulography Sensors on Speech in Individuals With and Without Dysarthria\n\n\nA preprint\n\n\n\n\n\n\n\n\nApr 4, 2025\n\n\nAustin Thompson, Micah Hirsch, Yunjung Kim\n\n\n\n\n\n\nNo matching items"
+    "text": "Here is what we’ve been up to lately.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe Effects of Electromagnetic Articulography Sensors on Speech in Individuals With and Without Dysarthria\n\n\nA preprint\n\n\n\n\n\n\n\n\nApr 4, 2025\n\n\nAustin Thompson, Micah Hirsch, Yunjung Kim\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Publication\n\n\n\n\n\n\nPreregistration\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/pub1/pub1.html",
@@ -348,5 +348,12 @@
     "title": "The Effects of Electromagnetic Articulography Sensors on Speech in Individuals With and Without Dysarthria",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nWhile the University of Wisconsin (UW) X-ray microbeam (XRMB) system is not an EMA system, this type of X-ray methodology was used prior to the widespread use of EMA (Barlow et al., 1983; Fujimura et al., 1973; Westbury, 1991). However, both methods allow for the investigation of fleshpoint data during speech movement. The XRMB used eight gold pellets attached to various articulators, including four lingual pellets. The pellets were 2-3 mm in diameter and did not require sensor wires like EMA devices.↩︎\nPlease note that the current study measured intelligibility using VAS, while Hustad et al. (2015) used orthographic transcriptions. However, the approach to describing reliability among perceptual ratings is consistent.↩︎"
+  },
+  {
+    "objectID": "Publications/pub1/pub1.html",
+    "href": "Publications/pub1/pub1.html",
+    "title": "My First Publication",
+    "section": "",
+    "text": "Content of my first publication…"
   }
 ]
