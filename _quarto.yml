@@ -3,11 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: " 
+  title: "SPEAK Lab"
+  navbar:
+    title: " 
   ![](/Images/Logo.png){width=45}
   \\ \\
   SPEAK Lab"
-  navbar:
     right:
       - text: "Home"
         href: index.qmd
