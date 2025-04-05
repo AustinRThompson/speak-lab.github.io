@@ -1,0 +1,28 @@
+---
+title: "New Publication: Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria"
+date: "2023-02-16"
+author: Austin Thompson
+categories:
+ - New Publication
+  
+draft: false
+---
+\
+
+Hello, world!
+
+This week, my coauthors and I published a new study titled ["Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria"](https://pubs.asha.org/doi/10.1044/2022_JSLHR-22-00287) in the Journal of Speech-Language and Hearing Research as a special issue of select papers from the 2022 Conference on Motor Speech. The purpose of this study was to determine if alternative vowel space area (VSA) measures (i.e., novel trajectory-based measures: vowel space hull area and vowel space density) predicted speech intelligibility to the same extent as two traditional vowel measures (i.e., token-based measures: VSA and corner dispersion) in speakers with dysarthria.
+
+I've been dreaming of doing this project ever since I read [Whitefield and Mehta's (2019)](https://pubs.asha.org/doi/abs/10.1044/2019_JSLHR-S-MSC18-18-0189) study examining various vowel space measures, including **vowel space density**, in speakers with Parkinson's disease. I instantly fell in love with this measure and wanted to explore using it in my research, which led to the development of this project.
+
+### **Highlights**
+
+My favorite part about this project was calculating the various vowel space measures (i.e., vowel space area, hull, and vowel space density) and visualizing them using ggplot2 in R. In particular, I thoroughly enjoyed making this plot shown below (making figures tends to be my favorite part of research).
+
+![Figure 1. Token-based (top row) and trajectory-based (bottom row) measures used in the current study. Although the token-based measures (top row) did not rely on the continuously sampled formant trajectories, they are plotted behind the token measures to demonstrate that all the target measures were measured from the same passage. VSA = vowel space area; VSAHull = vowel space hull area; VSD = vowel space density; F1 = first formant fequency; F2 = second formant frequency.](Measures.png)
+
+### **Challenges**
+
+The most challenging part of this project was cleaning the raw formant data. To calculate these measures, we want to obtain formant data from the vowel data alone (i.e., removing consonant frequency data and formant tracking errors). In the project, we ultimately used filtering methods that were reported in the previous literature. However, during this process, it became clear that this data cleaning process may have some flaws. For example, for some speakers, this data cleaning process erroneously removed data that appeared to reflect true vowel formant data. In other cases, it retained outlying data that were caused by formant tracking errors or consonant/fricative data. I believe that there may be a better, more nuanced way to clean the data. I hope to tackle this issue in some of my future work.
+
+Thanks for reading. The study can be found [here](https://pubs.asha.org/doi/10.1044/2022_JSLHR-22-00287), the preprint can be found [here](https://osf.io/ezr8n/), and the analysis script for the project can be found [here](https://osf.io/hr7aj/). Any and all feedback is welcomed!

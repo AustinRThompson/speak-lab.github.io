@@ -179,6 +179,34 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Here is what we’ve been up to lately.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe Effects of Electromagnetic Articulography Sensors on Speech in Individuals With and Without Dysarthria\n\n\nA preprint\n\n\n\n\n\n\n\n\nApr 4, 2025\n\n\nAustin Thompson, Micah Hirsch, Yunjung Kim\n\n\n\n\n\n\nNo matching items"
+    "text": "Here is what we’ve been up to lately.\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nThe Effects of Electromagnetic Articulography Sensors on Speech in Individuals With and Without Dysarthria\n\n\nA preprint\n\n\n\nPre-print\n\n\n\n\n\n\n\n\n\nApr 4, 2025\n\n\nAustin Thompson, Micah Hirsch, Yunjung Kim\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Publication\n\n\n\n\n\n\nPreregistration\n\n\n\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Posts/Lessons for Success/Lessons for Success.html",
+    "href": "Posts/Lessons for Success/Lessons for Success.html",
+    "title": "Austin Thompson attends the ASHA 2024 Lessons for Success conference",
+    "section": "",
+    "text": "This past week, I attended the 2024 Lessons for Success program at the ASHA headquarters in Rockville, Maryland. This program provides intensive training to early-career scientists in grant writing, research program management, and professional competency development.\n\n\n\n\n\nStoked about the first day of the conference!\n\n\n\n\n\n\n\n\nMe with my program mentor, Kris Tjaden.\n\n\n\n\n\n\n\n\nFrom left to right: Gemma Moya-Galé, Nina Benway, and me in front of the ASHA headquarters.\n\n\n\n\nMy favorite part of this experience was the mock reviews. We first observed a mock review demonstrated by the experienced mentors; then, later, I participated in a peer mock review as both a reviewer and a reviewee. Listening to a room full of reviewers of various research backgrounds discuss my grant was incredibly enlightening. The issues I thought they would grill me about were glossed over, and the issues they brought up were things that I had never considered.\nI hope to use these ✨lessons for success✨ to prepare a strong grant proposal for NIH funding that I will submit within the following year.\nI am so grateful for the staff, mentors, and fellow mentees who made this such a great experience. It was great catching up with old friends and making many new ones! My new career goal is to be successful enough to be invited back to Lessons for Success as a mentor! 😊"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nAustin Thompson attends the ASHA 2024 Lessons for Success conference\n\n\n\n\n\n\nAustin Thompson\n\n\nApr 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew Publication: Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria\n\n\n\nNew Publication\n\n\n\n\n\n\n\nAustin Thompson\n\n\nFeb 16, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#blog",
+    "href": "index.html#blog",
+    "title": "SPEAK Lab",
+    "section": "Blog",
+    "text": "Blog"
+  },
+  {
+    "objectID": "Posts/Vowel Acoustics as Predictors of Intelligibility/Vowel Acoustics as Predictors of Intelligibility.html",
+    "href": "Posts/Vowel Acoustics as Predictors of Intelligibility/Vowel Acoustics as Predictors of Intelligibility.html",
+    "title": "New Publication: Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria",
+    "section": "",
+    "text": "Hello, world!\nThis week, my coauthors and I published a new study titled “Vowel Acoustics as Predictors of Speech Intelligibility in Dysarthria” in the Journal of Speech-Language and Hearing Research as a special issue of select papers from the 2022 Conference on Motor Speech. The purpose of this study was to determine if alternative vowel space area (VSA) measures (i.e., novel trajectory-based measures: vowel space hull area and vowel space density) predicted speech intelligibility to the same extent as two traditional vowel measures (i.e., token-based measures: VSA and corner dispersion) in speakers with dysarthria.\nI’ve been dreaming of doing this project ever since I read Whitefield and Mehta’s (2019) study examining various vowel space measures, including vowel space density, in speakers with Parkinson’s disease. I instantly fell in love with this measure and wanted to explore using it in my research, which led to the development of this project.\n\nHighlights\nMy favorite part about this project was calculating the various vowel space measures (i.e., vowel space area, hull, and vowel space density) and visualizing them using ggplot2 in R. In particular, I thoroughly enjoyed making this plot shown below (making figures tends to be my favorite part of research).\n\n\n\nFigure 1. Token-based (top row) and trajectory-based (bottom row) measures used in the current study. Although the token-based measures (top row) did not rely on the continuously sampled formant trajectories, they are plotted behind the token measures to demonstrate that all the target measures were measured from the same passage. VSA = vowel space area; VSAHull = vowel space hull area; VSD = vowel space density; F1 = first formant fequency; F2 = second formant frequency.\n\n\n\n\nChallenges\nThe most challenging part of this project was cleaning the raw formant data. To calculate these measures, we want to obtain formant data from the vowel data alone (i.e., removing consonant frequency data and formant tracking errors). In the project, we ultimately used filtering methods that were reported in the previous literature. However, during this process, it became clear that this data cleaning process may have some flaws. For example, for some speakers, this data cleaning process erroneously removed data that appeared to reflect true vowel formant data. In other cases, it retained outlying data that were caused by formant tracking errors or consonant/fricative data. I believe that there may be a better, more nuanced way to clean the data. I hope to tackle this issue in some of my future work.\nThanks for reading. The study can be found here, the preprint can be found here, and the analysis script for the project can be found here. Any and all feedback is welcomed!"
   }
 ]

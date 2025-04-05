@@ -1,0 +1,40 @@
+---
+title: "Austin Thompson attends the ASHA 2024 Lessons for Success conference"
+date: "2024-04-18"
+author: Austin Thompson
+categories: 
+  
+draft: false
+---
+
+\
+
+This past week, I attended the 2024 [Lessons for Success](https://www.asha.org/research/l4s/) program at the ASHA headquarters in Rockville, Maryland. This program provides intensive training to early-career scientists in grant writing, research program management, and professional competency development.
+
+:::::::: columns
+::: {.column width="30%"}
+![Stoked about the first day of the conference!](IMG_1824.png)
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+![Me with my program mentor, Kris Tjaden.](IMG_1839.png)
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+![From left to right: Gemma Moya-Galé, Nina Benway, and me in front of the ASHA headquarters.](IMG_1834.png)
+:::
+::::::::
+
+My favorite part of this experience was the mock reviews. We first observed a mock review demonstrated by the experienced mentors; then, later, I participated in a peer mock review as both a reviewer and a reviewee. Listening to a room full of reviewers of various research backgrounds discuss my grant was incredibly enlightening. The issues I thought they would grill me about were glossed over, and the issues they brought up were things that I had never considered.
+
+I hope to use these ✨lessons for success✨ to prepare a strong grant proposal for NIH funding that I will submit within the following year.
+
+I am so grateful for the staff, mentors, and fellow mentees who made this such a great experience. It was great catching up with old friends and making many new ones! My new career goal is to be successful enough to be invited back to Lessons for Success as a mentor! 😊

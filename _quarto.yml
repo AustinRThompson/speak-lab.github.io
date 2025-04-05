@@ -16,8 +16,10 @@ website:
         href: team.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Blog"
+        href: blog.qmd
   page-footer: 
-    left: "Copyright 2021, Norah Jones" 
+    left: "" 
     right: 
       - icon: github
         href: https://github.com/

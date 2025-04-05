@@ -2,7 +2,22 @@
   {
     "listing": "/publications.html",
     "items": [
-      "/Publications/Sensor Effects/sensorEffects_Manuscript.html"
+      "/Publications/Sensor Effects/sensorEffects_Manuscript.html",
+      "/Publications/pub1/pub1.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/Posts/Lessons for Success/Lessons for Success.html",
+      "/Posts/Vowel Acoustics as Predictors of Intelligibility/Vowel Acoustics as Predictors of Intelligibility.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/Posts/Lessons for Success/Lessons for Success.html",
+      "/Posts/Vowel Acoustics as Predictors of Intelligibility/Vowel Acoustics as Predictors of Intelligibility.html"
     ]
   }
 ]

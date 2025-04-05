@@ -50,6 +50,8 @@ crossref:
       
 freeze: true
 title-block-style: manuscript
+categories: 
+  - Pre-print
 ---
 
 ::: {.callout-note appearance="simple"}
